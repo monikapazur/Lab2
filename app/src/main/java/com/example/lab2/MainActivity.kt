@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener, View.OnLongClick
                 view: View?,
                 position: Int,
                 id: Long
-            ) {
+            ) {///rejhrwirwerw
                 val op1Button = findViewById<Button>(R.id.firstOperationButton)
                 val op2Button = findViewById<Button>(R.id.secondOperationButton)
                 when (position) {
