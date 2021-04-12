@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result:</string>
+    <string name="clear_msg">Calculator cleared</string>
+    <string name="apply">Apply</string>
+    <string name="enable">Enable</string>
+    <string name="integer">integer</string>
+    <string name="number_format">Number format:</string>
+    <string name="floatTxt">Float</string>
+</resources>
